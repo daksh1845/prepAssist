@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prepAssist/static/css/main.10a8fbf0.css",
+    "main.js": "/prepAssist/static/js/main.e4c0c98f.js",
+    "static/media/ill2.png": "/prepAssist/static/media/ill2.3a9c23e51bebd99b8d95.png",
+    "static/media/ill1.png": "/prepAssist/static/media/ill1.589c06ce49b58c72ec94.png",
+    "static/media/prepAssist.gif": "/prepAssist/static/media/prepAssist.9a9b86ad4eeab1f872fa.gif",
+    "index.html": "/prepAssist/index.html",
+    "main.10a8fbf0.css.map": "/prepAssist/static/css/main.10a8fbf0.css.map",
+    "main.e4c0c98f.js.map": "/prepAssist/static/js/main.e4c0c98f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a8fbf0.css",
+    "static/js/main.e4c0c98f.js"
+  ]
+}
